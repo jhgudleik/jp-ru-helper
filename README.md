@@ -70,7 +70,7 @@
 jp-ru-helper/
 ├── jp_ru_gradio.gif   # анимированная демонстрация интерфейса Gradio 
 ├── jp_ru_gradio.py   # автономный Gradio-файл (можно запускать сразу)
-├── notebook.ipynb    # Jupyter-ноутбук с тем же кодом и демо-примерами
+├── JP-RU_Historical_Нelper.ipynb    # Jupyter-ноутбук с кодом и экспериментами с демо-запросами
 ├── requirements.txt
 └── README.md
 ```
